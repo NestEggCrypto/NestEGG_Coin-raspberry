@@ -19,7 +19,7 @@ obj = json.loads(data)
 print("balance:" + obj["balance"])
 #tutti i cazzi del display:
 balance = obj["balance"]
-title = "NewYorkCoin"
+title = "NestEGG Coin"
 by = "By CryptoLover705"
 text = "Balance:"
 
